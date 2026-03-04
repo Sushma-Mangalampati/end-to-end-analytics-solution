@@ -148,10 +148,10 @@ After enabling GitHub Pages:
 Settings → Pages → Deploy from branch → main → root
 ```
 
-Your portfolio will be available at:
+Portfolio will be available at:
 
 ```
-https://yourusername.github.io/Snowflake-PowerBI-TastyBytes/
+https://sushma-mangalampati.github.io/end-to-end-analytics-solution/
 ```
 
 This page (index.md) presents the project like a case study with embedded diagrams, SQL samples, model views, and insights.
