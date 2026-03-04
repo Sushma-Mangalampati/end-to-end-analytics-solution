@@ -1,7 +1,7 @@
-# Snowflake + Power BI End-to-End Analytics — Tasty Bytes Project
+# End-to-end analytics solution using Snowflake and PowerBI
 
-This repository contains my full **end-to-end analytics project** built on top of the **Tasty Bytes** dataset available in Snowflake Marketplace.  
-It demonstrates how I take raw marketplace data → model it → build a clean dimensional schema → and create insights using Power BI.
+This repository contains my full **end-to-end analytics project** built on top of the **Tasty Bytes** dataset.  
+It demonstrates how I take raw data → integrate it with Marketplace data → model it → build a clean dimensional schema → and create insights using Power BI.
 
 This project is structured exactly the way a real analytics/BI team would approach data modeling and dashboard development.
 
@@ -70,8 +70,8 @@ Located in the `/sql` folder.
 
 Includes:
 
-- Marketplace data setup  
 - Data profiling  
+- Marketplace data setup  
 - Dimensional modeling (surrogate keys, conformed dimensions)  
 - Fact table creation  
 - Data governance and schema/role setup  
@@ -170,11 +170,4 @@ This page (index.md) presents the project like a case study with embedded diagra
 - KPI creation, slicers, cross-filters  
 - Business insights summarization  
 - Documentation & technical communication  
-
----
-
-## 💬 Contact  
-If you'd like to discuss the project or the technical details behind it, feel free to reach out.
-
----
 
