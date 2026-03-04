@@ -1,10 +1,6 @@
----
-title: "Snowflake + Power BI: Tasty Bytes Analytics"
----
+# End-to-end analytics solution using Snowflake and PowerBI
 
-# Tasty Bytes – End-to-End Analytics with Snowflake & Power BI
-
-This project takes the **Tasty Bytes** food-truck dataset from Snowflake Marketplace and turns it into an end-to-end analytics solution:
+This project takes the **Tasty Bytes** food-truck dataset integrated with Snowflake Marketplace dataset and turns it into an end-to-end analytics solution:
 
 - Data profiling and exploration in Snowflake  
 - Building **dynamic tables** for dimensions and fact tables  
